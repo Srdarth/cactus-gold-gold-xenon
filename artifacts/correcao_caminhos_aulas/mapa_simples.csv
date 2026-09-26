@@ -1,0 +1,31 @@
+aula;titulo_codigo;caminho_correto;modulo
+01;Aula 01 — Como o Python funciona (interprete, script, REPL);codigo/modulo_01_iniciante/aula_01_como_o_python_funciona.py;modulo_01_iniciante
+02;Aula 02 — Variáveis e input;codigo/modulo_01_iniciante/aula_02_variaveis_e_input.py;modulo_01_iniciante
+03;Aula 03 — Decisões com if/else;codigo/modulo_01_iniciante/aula_03_decisao_if_else.py;modulo_01_iniciante
+04;Aula 04 — Repetição com for;codigo/modulo_01_iniciante/aula_04_repeticao_com_for.py;modulo_01_iniciante
+05;Aula 05 — Listas;codigo/modulo_01_iniciante/aula_05_listas.py;modulo_01_iniciante
+06;Aula 06 — Funções (seus atalhos);codigo/modulo_01_iniciante/aula_06_funcoes.py;modulo_01_iniciante
+07;Aula 07 — Arquivos e pastas;codigo/modulo_01_iniciante/aula_07_arquivos_e_pastas.py;modulo_01_iniciante
+08;Aula 08 — Dicionários;codigo/modulo_01_iniciante/aula_08_dicionarios.py;modulo_01_iniciante
+09;Aula 09 — Tratamento de erros (try/except);codigo/modulo_01_iniciante/aula_09_tratamento_de_erros.py;modulo_01_iniciante
+10;Aula 10 — Módulos e pacotes;codigo/modulo_01_iniciante/aula_10_modulos_e_pacotes.py;modulo_01_iniciante
+11;Aula 11 — Compreensões de lista (list comprehensions);codigo/modulo_02_intermediario/aula_11_list_comprehensions.py;modulo_02_intermediario
+12;Aula 12 — Arquivos CSV;codigo/modulo_02_intermediario/aula_12_arquivos_csv.py;modulo_02_intermediario
+13;Aula 13 — Classes e objetos (POO básico);codigo/modulo_02_intermediario/aula_13_classes_objetos.py;modulo_02_intermediario
+14;Aula 14 — Laço while e repetição condicional;codigo/modulo_02_intermediario/aula_14_laco_while.py;modulo_02_intermediario
+15;Aula 15 — Manipulação de strings;codigo/modulo_02_intermediario/aula_15_manipulacao_strings.py;modulo_02_intermediario
+16;Aula 16 — JSON: dados estruturados;codigo/modulo_02_intermediario/aula_16_json.py;modulo_02_intermediario
+17;Aula 17 — Funções avançadas: args, kwargs, lambda;codigo/modulo_02_intermediario/aula_17_funcoes_avancadas.py;modulo_02_intermediario
+18;Aula 18 — Geradores e iteradores;codigo/modulo_02_intermediario/aula_18_geradores.py;modulo_02_intermediario
+19;Aula 19 — Decoradores;codigo/modulo_02_intermediario/aula_19_decoradores.py;modulo_02_intermediario
+20;Aula 20 — Gerenciadores de contexto (with);codigo/modulo_02_intermediario/aula_20_gerenciadores_contexto.py;modulo_02_intermediario
+21;Aula 21 — Ambientes virtuais (venv) e dependências;codigo/modulo_03_avancado/aula_21_venv_e_pip.py;modulo_03_avancado
+22;Aula 22 — Requisições HTTP com requests;codigo/modulo_03_avancado/aula_22_requests_http.py;modulo_03_avancado
+23;Aula 23 — Banco de dados SQLite;codigo/modulo_03_avancado/aula_23_sqlite.py;modulo_03_avancado
+24;Aula 24 — Testes automatizados com pytest;codigo/modulo_03_avancado/aula_24_pytest.py;modulo_03_avancado
+25;Aula 25 — FastAPI: crie APIs modernas em minutos;codigo/modulo_03_avancado/aula_25_fastapi.py;modulo_03_avancado
+26;Aula 26 — Automação: arquivos, pastas e processos;codigo/modulo_03_avancado/aula_26_automacao.py;modulo_03_avancado
+27;Aula 27 — Expressões regulares (Regex);codigo/modulo_03_avancado/aula_27_regex.py;modulo_03_avancado
+28;Aula 28 — Concorrência e paralelismo;codigo/modulo_03_avancado/aula_28_concorrencia.py;modulo_03_avancado
+29;Aula 29 — Logging: registre tudo que acontece;codigo/modulo_03_avancado/aula_29_logging.py;modulo_03_avancado
+30;Aula 30 — Deploy, boas práticas e próximos passos;codigo/modulo_03_avancado/aula_30_deploy_boas_praticas.py;modulo_03_avancado

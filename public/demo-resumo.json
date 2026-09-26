@@ -1,0 +1,1911 @@
+{
+  "run_id": "20260113_175549",
+  "roots": [
+    "C:\\",
+    "D:\\",
+    "K:\\",
+    "R:\\"
+  ],
+  "total_files": 1063643,
+  "total_size_bytes": 1649687767711,
+  "categories": [
+    {
+      "name": "Outros",
+      "files": 318411,
+      "bytes": 1223635258308
+    },
+    {
+      "name": "Mídia",
+      "files": 271002,
+      "bytes": 195162510218
+    },
+    {
+      "name": "Compactados",
+      "files": 29701,
+      "bytes": 127343252205
+    },
+    {
+      "name": "Documentos",
+      "files": 406316,
+      "bytes": 102061302335
+    },
+    {
+      "name": "Código",
+      "files": 38213,
+      "bytes": 1485444645
+    }
+  ],
+  "top_extensions": [
+    {
+      "ext": ".img",
+      "files": 47,
+      "bytes": 1104620285920
+    },
+    {
+      "ext": ".pdf",
+      "files": 35198,
+      "bytes": 84381928792
+    },
+    {
+      "ext": ".m4a",
+      "files": 1084,
+      "bytes": 82469890552
+    },
+    {
+      "ext": ".zip",
+      "files": 1677,
+      "bytes": 78893870527
+    },
+    {
+      "ext": ".mp4",
+      "files": 12264,
+      "bytes": 62577489888
+    },
+    {
+      "ext": ".iso",
+      "files": 10,
+      "bytes": 35344453734
+    },
+    {
+      "ext": ".dll",
+      "files": 46268,
+      "bytes": 34440376836
+    },
+    {
+      "ext": ".jpg",
+      "files": 122375,
+      "bytes": 21367483858
+    },
+    {
+      "ext": ".png",
+      "files": 117232,
+      "bytes": 17876201699
+    },
+    {
+      "ext": ".exe",
+      "files": 6983,
+      "bytes": 9718555497
+    },
+    {
+      "ext": "(sem)",
+      "files": 56341,
+      "bytes": 9652057426
+    },
+    {
+      "ext": ".usm",
+      "files": 42,
+      "bytes": 8872169696
+    }
+  ],
+  "dup_candidates": [
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 6144,
+      "count": 456,
+      "sample_paths": [
+        "C:\\Windows\\System32\\af-ZA\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\ar-SA\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\as-IN\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\az-Latn-AZ\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\be-BY\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\bg-BG\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\bn-IN\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\bs-Latn-BA\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 4096,
+      "count": 338,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ja-JP\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ko-KR\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\zh-CN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\zh-TW\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe\\ja-JP\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe\\ko-KR\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe\\zh-CN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe\\zh-TW\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "CURRENT",
+      "size_bytes": 16,
+      "count": 286,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\AdBlock Custom Resources\\CURRENT",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\BraveWallet\\Brave Wallet Storage\\CURRENT",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Extension Rules\\CURRENT",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Extension Scripts\\CURRENT",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Extension State\\CURRENT",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\File System\\000\\t\\Paths\\CURRENT",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\File System\\001\\t\\Paths\\CURRENT",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\File System\\002\\p\\Paths\\CURRENT"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 14368,
+      "count": 258,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ar-SA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\as-IN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\az-Latn-AZ\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\bg-BG\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\bs-Latn-BA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ca-ES\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\cy-GB\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\en-GB\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "segments_3",
+      "size_bytes": 45,
+      "count": 246,
+      "sample_paths": [
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\ab\\help.idxl\\segments_3",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\af\\help.idxl\\segments_3",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\am\\help.idxl\\segments_3",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\ar\\help.idxl\\segments_3",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\as\\help.idxl\\segments_3",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\ast\\help.idxl\\segments_3",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\be\\help.idxl\\segments_3",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\bg\\help.idxl\\segments_3"
+      ]
+    },
+    {
+      "filename": "segments.gen",
+      "size_bytes": 20,
+      "count": 246,
+      "sample_paths": [
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\ab\\help.idxl\\segments.gen",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\af\\help.idxl\\segments.gen",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\am\\help.idxl\\segments.gen",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\ar\\help.idxl\\segments.gen",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\as\\help.idxl\\segments.gen",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\ast\\help.idxl\\segments.gen",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\be\\help.idxl\\segments.gen",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\bg\\help.idxl\\segments.gen"
+      ]
+    },
+    {
+      "filename": "index",
+      "size_bytes": 24,
+      "count": 189,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Code Cache\\js\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Code Cache\\wasm\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\085d26d988040a4b5ef606f2f90edb594bf0f8d2\\b59a1596-ce05-4fec-9915-033af473b4d8\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\379f1cbab5b08b6fc9e08681e42d8be311441c88\\0c4f4a27-221e-4b64-a324-de6cbfacd935\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\379f1cbab5b08b6fc9e08681e42d8be311441c88\\3ca89ece-fe81-478b-bb53-39ab824d338d\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\379f1cbab5b08b6fc9e08681e42d8be311441c88\\b9a4ff2c-50dc-4284-b6df-2b1534150319\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\579544fd7d0441717f082c9eb123588966aa57ac\\03135c00-eaa0-49e3-adce-85889883d572\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\579544fd7d0441717f082c9eb123588966aa57ac\\396ca15c-3af6-4029-beff-5852046ce604\\index"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 17408,
+      "count": 170,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\bg-BG\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\bs-Latn-BA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ca-ES\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\es-ES\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\es-MX\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\fr-CA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\fr-FR\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ga-IE\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "MANIFEST-000001",
+      "size_bytes": 41,
+      "count": 161,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\AdBlock Custom Resources\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\BraveWallet\\Brave Wallet Storage\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Extension Rules\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Extension Scripts\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\File System\\000\\t\\Paths\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\File System\\001\\t\\Paths\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\File System\\002\\p\\Paths\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\File System\\002\\t\\Paths\\MANIFEST-000001"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 5120,
+      "count": 153,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\bg-BG\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\bn-IN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\bs-Latn-BA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ca-ES\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ca-Es-VALENCIA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\cy-GB\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\de-DE\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\el-GR\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 16896,
+      "count": 130,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\bn-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\cs-CZ\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\de-DE\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\et-EE\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\fi-FI\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\fil-PH\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\hu-HU\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ka-GE\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "mlang.dll.mui",
+      "size_bytes": 16384,
+      "count": 125,
+      "sample_paths": [
+        "C:\\Windows\\System32\\af-ZA\\mlang.dll.mui",
+        "C:\\Windows\\System32\\be-BY\\mlang.dll.mui",
+        "C:\\Windows\\System32\\bs-Latn-BA\\mlang.dll.mui",
+        "C:\\Windows\\System32\\ca-ES\\mlang.dll.mui",
+        "C:\\Windows\\System32\\ca-ES-valencia\\mlang.dll.mui",
+        "C:\\Windows\\System32\\da-DK\\mlang.dll.mui",
+        "C:\\Windows\\System32\\es-ES\\mlang.dll.mui",
+        "C:\\Windows\\System32\\es-MX\\mlang.dll.mui"
+      ]
+    },
+    {
+      "filename": "WWAHost.exe.mui",
+      "size_bytes": 19968,
+      "count": 119,
+      "sample_paths": [
+        "C:\\Windows\\System32\\af-ZA\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\as-IN\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\be-BY\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\bn-IN\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\ca-ES\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\ca-ES-valencia\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\chr-CHER-US\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\cy-GB\\WWAHost.exe.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 14408,
+      "count": 117,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\SystemApps\\Microsoft.WindowsAppRuntime.CBS_8wekyb3d8bbwe\\pt-BR\\aeeb0121ed1addd719ec9886238b8d38\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\ar-SA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\ca-ES\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\ca-Es-VALENCIA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\cy-GB\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\es-ES\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\gu-IN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\kk-KZ\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "settings.dat",
+      "size_bytes": 8192,
+      "count": 95,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy\\Settings\\settings.dat",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\AdobeAcrobatReaderCoreApp_pc75e8sa7ep4e\\Settings\\settings.dat",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy\\Settings\\settings.dat",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\Clipchamp.Clipchamp_yxz26nhyzhsrt\\Settings\\settings.dat",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy\\Settings\\settings.dat",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy\\Settings\\settings.dat",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\\Settings\\settings.dat",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\Microsoft.AccountsControl_cw5n1h2txyewy\\Settings\\settings.dat"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 4608,
+      "count": 93,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\af-ZA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\am-ET\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ar-SA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\as-IN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\az-Latn-AZ\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\cs-CZ\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\da-DK\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\en-GB\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "data_1",
+      "size_bytes": 270336,
+      "count": 90,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnGraphiteCache\\data_1",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnWebGPUCache\\data_1",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\GPUCache\\data_1",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\GraphiteDawnCache\\data_1",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\ShaderCache\\data_1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnGraphiteCache\\data_1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnWebGPUCache\\data_1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\GPUCache\\data_1"
+      ]
+    },
+    {
+      "filename": "windows.ui.xaml.dll.mui",
+      "size_bytes": 18432,
+      "count": 88,
+      "sample_paths": [
+        "C:\\Windows\\System32\\be-BY\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\bs-Latn-BA\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\de-DE\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\fi-FI\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\ga-IE\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\gl-ES\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\hr-HR\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\ka-GE\\windows.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "index",
+      "size_bytes": 262512,
+      "count": 87,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnGraphiteCache\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnWebGPUCache\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\GPUCache\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\GraphiteDawnCache\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\GrShaderCache\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\ShaderCache\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnGraphiteCache\\index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnWebGPUCache\\index"
+      ]
+    },
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 432,
+      "count": 86,
+      "sample_paths": [
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_af-za_6a6b3b0a8086b6a5\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_am-et_728e72687b52b60c\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_ar-sa_69ea1b7280e7528a\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_be-by_183b1e0f6c35bd7d\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_bn-in_12f860516fa23a90\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_cs-cz_bb3373965eef800c\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_cy-gb_b04d8c9e65f8218e\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_en-us_fe89bef245e9dc6a\\r\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 15872,
+      "count": 84,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\af-ZA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\da-DK\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\gu-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\he-IL\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\hi-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\is-IS\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\kok-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\lo-LA\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 12288,
+      "count": 84,
+      "sample_paths": [
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_af-za_bffc71164a70d52b\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_as-in_c53542b84723c792\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_az-..-az_8da326133698427f\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_be-by_6dcc541b361fdc03\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_bn-in_6889965d398c5916\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_bs-..-ba_e86ac10b5011556d\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_ca-..cia_5f85416859dd9a5d\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_cs-cz_10c4a9a228d99e92\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 16384,
+      "count": 81,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ar-SA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\as-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\az-Latn-AZ\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\cy-GB\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\fa-IR\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\id-ID\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\km-KH\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ms-MY\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "settings.dat.LOG1",
+      "size_bytes": 8192,
+      "count": 77,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy\\Settings\\settings.dat.LOG1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy\\Settings\\settings.dat.LOG1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\Clipchamp.Clipchamp_yxz26nhyzhsrt\\Settings\\settings.dat.LOG1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy\\Settings\\settings.dat.LOG1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy\\Settings\\settings.dat.LOG1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\Microsoft.AccountsControl_cw5n1h2txyewy\\Settings\\settings.dat.LOG1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\Microsoft.ApplicationCompatibilityEnhancements_8wekyb3d8bbwe\\Settings\\settings.dat.LOG1",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\Microsoft.AsyncTextService_8wekyb3d8bbwe\\Settings\\settings.dat.LOG1"
+      ]
+    },
+    {
+      "filename": "tipresx.dll.mui",
+      "size_bytes": 10240,
+      "count": 76,
+      "sample_paths": [
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\be-BY\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\bn-IN\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\ca-ES\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\ca-ES-valencia\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\cy-GB\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\da-DK\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\eu-ES\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fi-FI\\tipresx.dll.mui"
+      ]
+    },
+    {
+      "filename": "data_2",
+      "size_bytes": 8192,
+      "count": 73,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnGraphiteCache\\data_2",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnWebGPUCache\\data_2",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\GraphiteDawnCache\\data_2",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\GrShaderCache\\data_2",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnGraphiteCache\\data_2",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnWebGPUCache\\data_2",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\DawnGraphiteCache\\data_2",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\DawnWebGPUCache\\data_2"
+      ]
+    },
+    {
+      "filename": "data_3",
+      "size_bytes": 8192,
+      "count": 71,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnGraphiteCache\\data_3",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnWebGPUCache\\data_3",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\GraphiteDawnCache\\data_3",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\ShaderCache\\data_3",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnGraphiteCache\\data_3",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnWebGPUCache\\data_3",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\GPUCache\\data_3",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\DawnGraphiteCache\\data_3"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 27680,
+      "count": 69,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\SystemApps\\Microsoft.WindowsAppRuntime.CBS_8wekyb3d8bbwe\\pt-BR\\203aec74802a1dd55172c8fc079a5947\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\bs-Latn-BA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\de-DE\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\fi-FI\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ga-IE\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\hu-HU\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\kk-KZ\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\lb-LU\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 17920,
+      "count": 65,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ca-Es-VALENCIA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\eu-ES\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\gd-gb\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\ta-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1136.2333.0_x64__8wekyb3d8bbwe\\uz-Latn-UZ\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe\\ca-Es-VALENCIA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe\\eu-ES\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe\\gd-gb\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "WindowsAdvancedSettings.resources.dll",
+      "size_bytes": 5120,
+      "count": 64,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\\ca-ES\\WindowsAdvancedSettings.resources.dll",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\\cs-CZ\\WindowsAdvancedSettings.resources.dll",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\\da-DK\\WindowsAdvancedSettings.resources.dll",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\\de-DE\\WindowsAdvancedSettings.resources.dll",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\\es-ES\\WindowsAdvancedSettings.resources.dll",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\\et-EE\\WindowsAdvancedSettings.resources.dll",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\\eu-ES\\WindowsAdvancedSettings.resources.dll",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\\fi-FI\\WindowsAdvancedSettings.resources.dll"
+      ]
+    },
+    {
+      "filename": "fms.dll.mui",
+      "size_bytes": 14848,
+      "count": 62,
+      "sample_paths": [
+        "C:\\Windows\\System32\\be-BY\\fms.dll.mui",
+        "C:\\Windows\\System32\\bs-Latn-BA\\fms.dll.mui",
+        "C:\\Windows\\System32\\ca-ES\\fms.dll.mui",
+        "C:\\Windows\\System32\\ca-ES-valencia\\fms.dll.mui",
+        "C:\\Windows\\System32\\cs-CZ\\fms.dll.mui",
+        "C:\\Windows\\System32\\et-EE\\fms.dll.mui",
+        "C:\\Windows\\System32\\eu-ES\\fms.dll.mui",
+        "C:\\Windows\\System32\\fil-PH\\fms.dll.mui"
+      ]
+    },
+    {
+      "filename": "data_0",
+      "size_bytes": 8192,
+      "count": 61,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnGraphiteCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\DawnWebGPUCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\GraphiteDawnCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnGraphiteCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\DawnWebGPUCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\DawnGraphiteCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\DawnWebGPUCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\GPUCache\\data_0"
+      ]
+    },
+    {
+      "filename": "windows.ui.xaml.dll.mui",
+      "size_bytes": 18944,
+      "count": 60,
+      "sample_paths": [
+        "C:\\Windows\\System32\\ca-ES\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\ca-ES-valencia\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\es-ES\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\es-MX\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\eu-ES\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\fr-CA\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\fr-FR\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\it-IT\\windows.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "windows.ui.xaml.dll.mui",
+      "size_bytes": 17920,
+      "count": 60,
+      "sample_paths": [
+        "C:\\Windows\\System32\\bn-IN\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\cs-CZ\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\et-EE\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\fa-IR\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\fil-PH\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\hu-HU\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\hy-AM\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\id-ID\\windows.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "mlang.dll.mui",
+      "size_bytes": 15872,
+      "count": 58,
+      "sample_paths": [
+        "C:\\Windows\\System32\\as-IN\\mlang.dll.mui",
+        "C:\\Windows\\System32\\az-Latn-AZ\\mlang.dll.mui",
+        "C:\\Windows\\System32\\bn-IN\\mlang.dll.mui",
+        "C:\\Windows\\System32\\cy-GB\\mlang.dll.mui",
+        "C:\\Windows\\System32\\en-GB\\mlang.dll.mui",
+        "C:\\Windows\\System32\\en-US\\mlang.dll.mui",
+        "C:\\Windows\\System32\\fa-IR\\mlang.dll.mui",
+        "C:\\Windows\\System32\\gu-IN\\mlang.dll.mui"
+      ]
+    },
+    {
+      "filename": "fms.dll.mui",
+      "size_bytes": 14336,
+      "count": 58,
+      "sample_paths": [
+        "C:\\Windows\\System32\\af-ZA\\fms.dll.mui",
+        "C:\\Windows\\System32\\ar-SA\\fms.dll.mui",
+        "C:\\Windows\\System32\\as-IN\\fms.dll.mui",
+        "C:\\Windows\\System32\\az-Latn-AZ\\fms.dll.mui",
+        "C:\\Windows\\System32\\bg-BG\\fms.dll.mui",
+        "C:\\Windows\\System32\\bn-IN\\fms.dll.mui",
+        "C:\\Windows\\System32\\cy-GB\\fms.dll.mui",
+        "C:\\Windows\\System32\\da-DK\\fms.dll.mui"
+      ]
+    },
+    {
+      "filename": "settings.csg",
+      "size_bytes": 454,
+      "count": 58,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\ConstraintIndex\\Input_{083d22cd-0bb7-4a33-b74a-40bf1f274650}\\settings.csg",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\ConstraintIndex\\Input_{54f44a56-831d-4fc6-8051-d611efdce00f}\\settings.csg",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\de-DE\\settings.csg",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-AU\\settings.csg",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-CA\\settings.csg",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-GB\\settings.csg",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-IN\\settings.csg",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-US\\settings.csg"
+      ]
+    },
+    {
+      "filename": "help.key_",
+      "size_bytes": 217,
+      "count": 58,
+      "sample_paths": [
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\ab\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\as\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\bn\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\bn-IN\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\bo\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\brx\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\ca\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\ca-valencia\\help.key_"
+      ]
+    },
+    {
+      "filename": "settings.schema",
+      "size_bytes": 162,
+      "count": 58,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\ConstraintIndex\\Input_{083d22cd-0bb7-4a33-b74a-40bf1f274650}\\settings.schema",
+        "C:\\Users\\Usuário\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\ConstraintIndex\\Input_{54f44a56-831d-4fc6-8051-d611efdce00f}\\settings.schema",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\de-DE\\settings.schema",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-AU\\settings.schema",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-CA\\settings.schema",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-GB\\settings.schema",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-IN\\settings.schema",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-US\\settings.schema"
+      ]
+    },
+    {
+      "filename": "the-real-index",
+      "size_bytes": 48,
+      "count": 58,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\379f1cbab5b08b6fc9e08681e42d8be311441c88\\0c4f4a27-221e-4b64-a324-de6cbfacd935\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Shared Dictionary\\cache\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\\9b188679-fa35-40de-a7ce-4b85aa153e7d\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\379f1cbab5b08b6fc9e08681e42d8be311441c88\\c7364980-835d-4746-ac6e-2b2a39ea7088\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\3f936910c892a831f29a4a358bb82ab5f66e10c6\\72678701-beb8-41df-a7d3-6bd30eb39ac1\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\3f936910c892a831f29a4a358bb82ab5f66e10c6\\d6202ae9-c5fb-4243-b3e1-84edeca7b898\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\4ec500e04e5b2ce3479e54e2494e8f987594435f\\893a8181-a2ef-4614-ac1e-3cdde2ee8f9e\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\4ec500e04e5b2ce3479e54e2494e8f987594435f\\e7dbed12-9301-43f4-aaff-37329b2b70ad\\index-dir\\the-real-index"
+      ]
+    },
+    {
+      "filename": "INSTALLER",
+      "size_bytes": 4,
+      "count": 57,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.debugpy-2025.18.0-win32-x64\\bundled\\libs\\packaging-24.2.dist-info\\INSTALLER",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python_files\\lib\\jedilsp\\attrs-25.3.0.dist-info\\INSTALLER",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python_files\\lib\\jedilsp\\cattrs-25.2.0.dist-info\\INSTALLER",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python_files\\lib\\jedilsp\\docstring_to_markdown-0.17.dist-info\\INSTALLER",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python_files\\lib\\jedilsp\\exceptiongroup-1.3.0.dist-info\\INSTALLER",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python_files\\lib\\jedilsp\\importlib_metadata-8.7.0.dist-info\\INSTALLER",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python_files\\lib\\jedilsp\\jedi-0.19.2.dist-info\\INSTALLER",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python_files\\lib\\jedilsp\\jedi_language_server-0.45.1.dist-info\\INSTALLER"
+      ]
+    },
+    {
+      "filename": "settingsglobals.txt",
+      "size_bytes": 44499,
+      "count": 56,
+      "sample_paths": [
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\de-DE\\settingsglobals.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-AU\\settingsglobals.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-CA\\settingsglobals.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-GB\\settingsglobals.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-IN\\settingsglobals.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\en-US\\settingsglobals.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\es-ES\\settingsglobals.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\es-MX\\settingsglobals.txt"
+      ]
+    },
+    {
+      "filename": "SyncRes.dll.mui",
+      "size_bytes": 30208,
+      "count": 56,
+      "sample_paths": [
+        "C:\\Windows\\System32\\af-ZA\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\be-BY\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\bn-IN\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\cs-CZ\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\lv-LV\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\mr-IN\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\ru-RU\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\sk-SK\\SyncRes.dll.mui"
+      ]
+    },
+    {
+      "filename": "tipresx.dll.mui",
+      "size_bytes": 9728,
+      "count": 54,
+      "sample_paths": [
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\af-ZA\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\as-IN\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\az-Latn-AZ\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\bs-Latn-BA\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\cs-CZ\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\en-GB\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\en-US\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\fa-IR\\tipresx.dll.mui"
+      ]
+    },
+    {
+      "filename": "appxsignature.p7x",
+      "size_bytes": 9649,
+      "count": 54,
+      "sample_paths": [
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\appxsignature.p7x",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy\\appxsignature.p7x",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\appxsignature.p7x",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\\appxsignature.p7x",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.OOBE_cw5n1h2txyewy\\appxsignature.p7x",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\appxsignature.p7x",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.57242383.Tasbar_cw5n1h2txyewy\\appxsignature.p7x",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.59336768.Speion_cw5n1h2txyewy\\appxsignature.p7x"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 27168,
+      "count": 51,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ar-SA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\az-Latn-AZ\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\bn-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\cs-CZ\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\et-EE\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\fa-IR\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\kn-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\lv-LV\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "CommandHelpWindowContent.json",
+      "size_bytes": 160261,
+      "count": 50,
+      "sample_paths": [
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\FREUserInterface\\Assets\\Content\\hi-IN\\CommandHelpWindowContent.json",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\FREUserInterface\\Assets\\Content\\ja-JP\\CommandHelpWindowContent.json",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\FREUserInterface\\Assets\\Content\\zh-CN\\CommandHelpWindowContent.json",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\FREUserInterface\\Assets\\Content\\zh-HK\\CommandHelpWindowContent.json",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\FREUserInterface\\Assets\\Content\\zh-TW\\CommandHelpWindowContent.json",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.59337133.Voiess_cw5n1h2txyewy\\FREUserInterface\\Assets\\Content\\hi-IN\\CommandHelpWindowContent.json",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.59337133.Voiess_cw5n1h2txyewy\\FREUserInterface\\Assets\\Content\\ja-JP\\CommandHelpWindowContent.json",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.59337133.Voiess_cw5n1h2txyewy\\FREUserInterface\\Assets\\Content\\zh-CN\\CommandHelpWindowContent.json"
+      ]
+    },
+    {
+      "filename": "ActivationStore.dat",
+      "size_bytes": 65536,
+      "count": 50,
+      "sample_paths": [
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.AccountsControl_10.0.26100.1_neutral__cw5n1h2txyewy\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.DesktopAppInstaller_1.27.350.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.Edge.GameAssist_1.0.3590.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.MicrosoftSolitaireCollection_4.24.12220.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.MixedReality.Portal_2000.21051.1282.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.People_10.2202.100.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.ScreenSketch_11.2510.31.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.StorePurchaseApp_22511.1401.3.0_x64__8wekyb3d8bbwe\\ActivationStore.dat"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 28192,
+      "count": 50,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ca-ES\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\es-ES\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\es-MX\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\gl-ES\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\pl-PL\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\sk-SK\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\sq-AL\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ta-IN\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 12800,
+      "count": 50,
+      "sample_paths": [
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_bg-bg_65bb33073b51c267\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_ca-es_0e6c68682a46bb31\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_de-de_ab2a1f0520f5ef2b\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_es-es_53e651e20ffaec95\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_es-mx_561d3f880e8ed040\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_fil-ph_973c559b4a326a76\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_fr-ca_ef14122b07a5691d\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_fr-fr_f69dc7e102cd02f7\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "WWAHost.exe.mui",
+      "size_bytes": 20480,
+      "count": 49,
+      "sample_paths": [
+        "C:\\Windows\\System32\\az-Latn-AZ\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\bs-Latn-BA\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\da-DK\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\fil-PH\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\ga-IE\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\gd-GB\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\lt-LT\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\lv-LV\\WWAHost.exe.mui"
+      ]
+    },
+    {
+      "filename": "SplashScreen.scale-200.png",
+      "size_bytes": 7700,
+      "count": 49,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.GamingApp_2512.1001.34.0_x64__8wekyb3d8bbwe\\Assets\\SplashScreen.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\\Images\\SplashScreen.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Windows.Photos_2025.11120.5001.0_x64__8wekyb3d8bbwe\\Assets\\Common\\SplashScreen.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsSoundRecorder_11.2510.0.0_x64__8wekyb3d8bbwe\\Assets\\SplashScreen.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Assets\\SplashScreen.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Dashboard\\Images\\SplashScreen.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Images\\SplashScreen.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.AIX_cw5n1h2txyewy\\Assets\\SplashScreen.scale-200.png"
+      ]
+    },
+    {
+      "filename": "license.rtf",
+      "size_bytes": 169428,
+      "count": 48,
+      "sample_paths": [
+        "C:\\Windows\\System32\\en-US\\Licenses\\OEM\\IoTEnterprise\\license.rtf",
+        "C:\\Windows\\System32\\en-US\\Licenses\\OEM\\IoTEnterpriseK\\license.rtf",
+        "C:\\Windows\\System32\\en-US\\Licenses\\_Default\\IoTEnterpriseK\\license.rtf",
+        "C:\\Windows\\System32\\Licenses\\neutral\\OEM\\IoTEnterprise\\license.rtf",
+        "C:\\Windows\\System32\\Licenses\\neutral\\OEM\\IoTEnterpriseK\\license.rtf",
+        "C:\\Windows\\System32\\Licenses\\neutral\\_Default\\IoTEnterpriseK\\license.rtf",
+        "C:\\Windows\\SysWOW64\\en-US\\Licenses\\OEM\\IoTEnterprise\\license.rtf",
+        "C:\\Windows\\SysWOW64\\en-US\\Licenses\\OEM\\IoTEnterpriseK\\license.rtf"
+      ]
+    },
+    {
+      "filename": "bootmgr.efi.mui",
+      "size_bytes": 90024,
+      "count": 46,
+      "sample_paths": [
+        "C:\\Windows\\Boot\\EFI\\bg-BG\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\cs-CZ\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\de-DE\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\en-GB\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\en-US\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\es-ES\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\es-MX\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\et-EE\\bootmgr.efi.mui"
+      ]
+    },
+    {
+      "filename": "bootmgr_EX.efi.mui",
+      "size_bytes": 90024,
+      "count": 46,
+      "sample_paths": [
+        "C:\\Windows\\Boot\\EFI_EX\\bg-BG\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\cs-CZ\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\de-DE\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\en-GB\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\en-US\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\es-ES\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\es-MX\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\et-EE\\bootmgr_EX.efi.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 14376,
+      "count": 46,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ca-Es-VALENCIA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\da-DK\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\el-GR\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\es-ES\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\es-MX\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\fr-CA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ka-GE\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\kok-IN\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "windows.ui.xaml.dll.mui",
+      "size_bytes": 16896,
+      "count": 44,
+      "sample_paths": [
+        "C:\\Windows\\System32\\da-DK\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\gu-IN\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\hi-IN\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\kok-IN\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\lo-LA\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\mr-IN\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\nb-NO\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\nn-NO\\windows.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "AppxSignature.p7x",
+      "size_bytes": 12219,
+      "count": 44,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.AVCEncoderVideoExtension_1.1.21.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25121.69.0_neutral_split.language-pt_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25121.69.0_neutral_split.scale-100_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25121.69.0_neutral_split.scale-125_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25121.69.0_neutral_split.scale-150_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25121.69.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.GetHelp_10.2409.33293.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.HEIFImageExtension_1.2.28.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x"
+      ]
+    },
+    {
+      "filename": "Square150x150Logo.scale-200.png",
+      "size_bytes": 7742,
+      "count": 43,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Assets\\Square150x150Logo.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Dashboard\\Images\\Square150x150Logo.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Images\\Square150x150Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.AIX_cw5n1h2txyewy\\Assets\\Square150x150Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\Assets\\Square150x150Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy\\Assets\\Square150x150Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\Assets\\Square150x150Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\SettingsModelService\\Assets\\Square150x150Logo.scale-200.png"
+      ]
+    },
+    {
+      "filename": "Square44x44Logo.scale-200.png",
+      "size_bytes": 2465,
+      "count": 43,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Assets\\Square44x44Logo.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Dashboard\\Images\\Square44x44Logo.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Images\\Square44x44Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.AIX_cw5n1h2txyewy\\Assets\\Square44x44Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\Assets\\Square44x44Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy\\Assets\\Square44x44Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\Assets\\Square44x44Logo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\SettingsModelService\\Assets\\Square44x44Logo.scale-200.png"
+      ]
+    },
+    {
+      "filename": "help.key_",
+      "size_bytes": 236,
+      "count": 43,
+      "sample_paths": [
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\bn\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\bo\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\brx\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\ckb\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\dgo\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\dz\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\en-GB\\help.key_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\nlpsolver\\help\\en-US\\help.key_"
+      ]
+    },
+    {
+      "filename": "MANIFEST-000001",
+      "size_bytes": 23,
+      "count": 42,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\IndexedDB\\chrome-extension_efaidnbmnnnibpcajpcglclefindmkaj_0.indexeddb.leveldb\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\IndexedDB\\https_www.youtube.com_0.indexeddb.leveldb\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\chrome-extension_efaidnbmnnnibpcajpcglclefindmkaj_0.indexeddb.leveldb\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_apps.microsoft.com_0.indexeddb.leveldb\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_blog.grancursosonline.com.br_0.indexeddb.leveldb\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_conta.olx.com.br_0.indexeddb.leveldb\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_m.ok.ru_0.indexeddb.leveldb\\MANIFEST-000001",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_questoes.grancursosonline.com.br_0.indexeddb.leveldb\\MANIFEST-000001"
+      ]
+    },
+    {
+      "filename": "windows.ui.xaml.dll.mui",
+      "size_bytes": 17408,
+      "count": 40,
+      "sample_paths": [
+        "C:\\Windows\\System32\\af-ZA\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\ar-SA\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\as-IN\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\az-Latn-AZ\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\cy-GB\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\is-IS\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\km-KH\\windows.ui.xaml.dll.mui",
+        "C:\\Windows\\System32\\tt-RU\\windows.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "LockScreenLogo.scale-200.png",
+      "size_bytes": 1563,
+      "count": 39,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Assets\\LockScreenLogo.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Dashboard\\Images\\LockScreenLogo.scale-200.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Images\\LockScreenLogo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.AIX_cw5n1h2txyewy\\Assets\\LockScreenLogo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\Assets\\LockScreenLogo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy\\Assets\\LockScreenLogo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\Assets\\LockScreenLogo.scale-200.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\\Assets\\LockScreenLogo.scale-200.png"
+      ]
+    },
+    {
+      "filename": "StoreLogo.png",
+      "size_bytes": 1404,
+      "count": 39,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Assets\\StoreLogo.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Dashboard\\Images\\StoreLogo.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Images\\StoreLogo.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.AIX_cw5n1h2txyewy\\Assets\\StoreLogo.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\Assets\\StoreLogo.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy\\Assets\\StoreLogo.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\Assets\\StoreLogo.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\\Assets\\StoreLogo.png"
+      ]
+    },
+    {
+      "filename": "StoreLogo.scale-100.png",
+      "size_bytes": 1404,
+      "count": 39,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Assets\\StoreLogo.scale-100.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Dashboard\\Images\\StoreLogo.scale-100.png",
+        "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Images\\StoreLogo.scale-100.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.AIX_cw5n1h2txyewy\\Assets\\StoreLogo.scale-100.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\Assets\\StoreLogo.scale-100.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy\\Assets\\StoreLogo.scale-100.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy\\Assets\\StoreLogo.scale-100.png",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\\Assets\\StoreLogo.scale-100.png"
+      ]
+    },
+    {
+      "filename": "ActivationStore.dat",
+      "size_bytes": 32768,
+      "count": 37,
+      "sample_paths": [
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.AAD.BrokerPlugin_1000.19580.1000.2_neutral_neutral_cw5n1h2txyewy\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.Advertising.Xaml_10.1808.3.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.BingNews_4.55.62231.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.BingWeather_4.54.63029.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.LockApp_10.0.26100.4202_neutral__cw5n1h2txyewy\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.Microsoft3DViewer_1.0.125.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.MicrosoftOfficeHub_19.2601.39061.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.Todos_0.148.3611.0_x64__8wekyb3d8bbwe\\ActivationStore.dat"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 14384,
+      "count": 37,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\af-ZA\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\bn-IN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\de-DE\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\fa-IR\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\fil-PH\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\hr-HR\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\hu-HU\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\hy-AM\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "settingsconversions.txt",
+      "size_bytes": 31582,
+      "count": 36,
+      "sample_paths": [
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\de-DE\\settingsconversions.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\es-ES\\settingsconversions.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\es-MX\\settingsconversions.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\fr-CA\\settingsconversions.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\fr-FR\\settingsconversions.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\it-IT\\settingsconversions.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\ja-JP\\settingsconversions.txt",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\Public\\wsxpacks\\SettingsSearchData\\pt-BR\\settingsconversions.txt"
+      ]
+    },
+    {
+      "filename": "SyncRes.dll.mui",
+      "size_bytes": 30720,
+      "count": 36,
+      "sample_paths": [
+        "C:\\Windows\\System32\\az-Latn-AZ\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\da-DK\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\hu-HU\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\mk-MK\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\ms-MY\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\pa-IN\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\pt-BR\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\sl-SI\\SyncRes.dll.mui"
+      ]
+    },
+    {
+      "filename": "SyncRes.dll.mui",
+      "size_bytes": 29184,
+      "count": 36,
+      "sample_paths": [
+        "C:\\Windows\\System32\\bs-Latn-BA\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\fa-IR\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\hr-HR\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\id-ID\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\it-IT\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\ka-GE\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\kk-KZ\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\nn-NO\\SyncRes.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 26656,
+      "count": 36,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\as-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\hi-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\is-IS\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\km-KH\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\sv-SE\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\tr-TR\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\af-ZA\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\as-IN\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 5632,
+      "count": 36,
+      "sample_paths": [
+        "C:\\Windows\\System32\\am-ET\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\chr-CHER-US\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\he-IL\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\ja-jp\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\ko-KR\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\th-TH\\comctl32.dll.mui",
+        "C:\\Windows\\SysWOW64\\am-ET\\comctl32.dll.mui",
+        "C:\\Windows\\SysWOW64\\chr-CHER-US\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 434,
+      "count": 36,
+      "sample_paths": [
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_bg-bg_1029fcfb7167a3e1\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_bs-..-ba_92d98aff862736e7\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_ca-..cia_09f40b5c8ff37bd7\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_de-de_5598e8f9570bd0a5\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_es-es_fe551bd64610ce0f\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_es-mx_008c097c44a4b1ba\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_fi-fi_9d7020833b2ac039\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_gd-gb_3da9ab1e2f924bad\\r\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "appxblockmap.xml",
+      "size_bytes": 405,
+      "count": 36,
+      "sample_paths": [
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy\\appxblockmap.xml",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\\appxblockmap.xml",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.OOBE_cw5n1h2txyewy\\appxblockmap.xml",
+        "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\\appxblockmap.xml",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.57242383.Tasbar_cw5n1h2txyewy\\appxblockmap.xml",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.59336768.Speion_cw5n1h2txyewy\\appxblockmap.xml",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.59337133.Voiess_cw5n1h2txyewy\\appxblockmap.xml",
+        "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.59337145.Livtop_cw5n1h2txyewy\\appxblockmap.xml"
+      ]
+    },
+    {
+      "filename": "data_0",
+      "size_bytes": 45056,
+      "count": 35,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\GPUCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\GrShaderCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\ShaderCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\GPUCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\GrShaderCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\GPUCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\ShaderCache\\data_0",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Play Games\\CEF\\cache\\Cache\\Cache_Data\\data_0"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 27720,
+      "count": 35,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\fi-FI\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\ga-IE\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\hu-HU\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\ka-GE\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\mk-MK\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\nl-NL\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\sl-SI\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\sr-Cyrl-BA\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "AppxSignature.p7x",
+      "size_bytes": 12216,
+      "count": 35,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.ApplicationCompatibilityEnhancements_1.2511.9.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.BingSearch_1.1.40.0_neutral_split.language-pt_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.BingSearch_1.1.40.0_neutral_split.scale-100_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.BingSearch_1.1.40.0_neutral_split.scale-125_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.BingSearch_1.1.40.0_neutral_split.scale-150_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.BingSearch_2022.1.40.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.BingWeather_4.54.63029.0_neutral_split.language-pt_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.27.350.0_neutral_split.language-pt_8wekyb3d8bbwe\\AppxSignature.p7x"
+      ]
+    },
+    {
+      "filename": "NoiseAsset_256x256_PNG.png",
+      "size_bytes": 3241,
+      "count": 35,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe\\Microsoft.UI.Xaml\\Assets\\NoiseAsset_256x256_PNG.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x86__8wekyb3d8bbwe\\Microsoft.UI.Xaml\\Assets\\NoiseAsset_256x256_PNG.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x64__8wekyb3d8bbwe\\Microsoft.UI.Xaml\\Assets\\NoiseAsset_256x256_PNG.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x86__8wekyb3d8bbwe\\Microsoft.UI.Xaml\\Assets\\NoiseAsset_256x256_PNG.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe\\Microsoft.UI.Xaml\\Assets\\NoiseAsset_256x256_PNG.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe\\Microsoft.UI.Xaml\\Assets\\NoiseAsset_256x256_PNG.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.7_7.2208.15002.0_x64__8wekyb3d8bbwe\\Microsoft.UI.Xaml\\Assets\\NoiseAsset_256x256_PNG.png",
+        "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.7_7.2409.9001.0_x64__8wekyb3d8bbwe\\Microsoft.UI.Xaml\\Assets\\NoiseAsset_256x256_PNG.png"
+      ]
+    },
+    {
+      "filename": "Windows.Media.Speech.UXRes.dll.mui",
+      "size_bytes": 8192,
+      "count": 34,
+      "sample_paths": [
+        "C:\\Windows\\System32\\ar-SA\\Windows.Media.Speech.UXRes.dll.mui",
+        "C:\\Windows\\System32\\da-DK\\Windows.Media.Speech.UXRes.dll.mui",
+        "C:\\Windows\\System32\\de-DE\\Windows.Media.Speech.UXRes.dll.mui",
+        "C:\\Windows\\System32\\el-GR\\Windows.Media.Speech.UXRes.dll.mui",
+        "C:\\Windows\\System32\\en-GB\\Windows.Media.Speech.UXRes.dll.mui",
+        "C:\\Windows\\System32\\en-US\\Windows.Media.Speech.UXRes.dll.mui",
+        "C:\\Windows\\System32\\es-MX\\Windows.Media.Speech.UXRes.dll.mui",
+        "C:\\Windows\\System32\\fi-FI\\Windows.Media.Speech.UXRes.dll.mui"
+      ]
+    },
+    {
+      "filename": "_setup.dll",
+      "size_bytes": 34816,
+      "count": 33,
+      "sample_paths": [
+        "C:\\Windows\\SysWOW64\\InstallShield\\setupdir\\0005\\_setup.dll",
+        "C:\\Windows\\SysWOW64\\InstallShield\\setupdir\\0006\\_setup.dll",
+        "C:\\Windows\\SysWOW64\\InstallShield\\setupdir\\0009\\_setup.dll",
+        "C:\\Windows\\SysWOW64\\InstallShield\\setupdir\\000b\\_setup.dll",
+        "C:\\Windows\\SysWOW64\\InstallShield\\setupdir\\0011\\_setup.dll",
+        "C:\\Windows\\SysWOW64\\InstallShield\\setupdir\\0012\\_setup.dll",
+        "C:\\Windows\\SysWOW64\\InstallShield\\setupdir\\0013\\_setup.dll",
+        "C:\\Windows\\SysWOW64\\InstallShield\\setupdir\\0015\\_setup.dll"
+      ]
+    },
+    {
+      "filename": "ActivationStore.dat",
+      "size_bytes": 16384,
+      "count": 33,
+      "sample_paths": [
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\1527c705-839a-4832-9118-54d4Bd6a0c89_10.0.19640.1000_neutral_neutral_cw5n1h2txyewy\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\c5e2524a-ea46-4f67-841f-6a9465d9d515_10.0.26100.1_neutral_neutral_cw5n1h2txyewy\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Clipchamp.Clipchamp_4.4.10720.0_x64__yxz26nhyzhsrt\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\E2A4F912-2574-4A75-9BB0-0D023378592B_10.0.19640.1000_neutral_neutral_cw5n1h2txyewy\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_10.0.26100.1_neutral_neutral_cw5n1h2txyewy\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.AsyncTextService_10.0.26100.1_neutral__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.BingSearch_1.1.40.0_x64__8wekyb3d8bbwe\\ActivationStore.dat",
+        "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\Microsoft.BioEnrollment_10.0.19587.1000_neutral__cw5n1h2txyewy\\ActivationStore.dat"
+      ]
+    },
+    {
+      "filename": "AppxBlockMap.xml",
+      "size_bytes": 403,
+      "count": 33,
+      "sample_paths": [
+        "C:\\Windows\\SystemApps\\Microsoft.AsyncTextService_8wekyb3d8bbwe\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\microsoft.creddialoghost_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.ECApp_8wekyb3d8bbwe\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Win32WebViewHost_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy\\AppxBlockMap.xml"
+      ]
+    },
+    {
+      "filename": "license.rtf",
+      "size_bytes": 207691,
+      "count": 32,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\Eval\\IoTEnterpriseSEval\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\OEM\\IoTEnterprise\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\OEM\\IoTEnterpriseK\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\OEM\\IoTEnterpriseS\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\OEM\\IoTEnterpriseSK\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\_Default\\IoTEnterpriseK\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\_Default\\IoTEnterpriseS\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\_Default\\IoTEnterpriseSK\\license.rtf"
+      ]
+    },
+    {
+      "filename": "license.rtf",
+      "size_bytes": 128342,
+      "count": 32,
+      "sample_paths": [
+        "C:\\Windows\\System32\\en-US\\Licenses\\OEM\\Professional\\license.rtf",
+        "C:\\Windows\\System32\\en-US\\Licenses\\_Default\\Professional\\license.rtf",
+        "C:\\Windows\\System32\\Licenses\\neutral\\OEM\\Professional\\license.rtf",
+        "C:\\Windows\\System32\\Licenses\\neutral\\_Default\\Professional\\license.rtf",
+        "C:\\Windows\\SysWOW64\\en-US\\Licenses\\OEM\\Professional\\license.rtf",
+        "C:\\Windows\\SysWOW64\\en-US\\Licenses\\_Default\\Professional\\license.rtf",
+        "C:\\Windows\\SysWOW64\\Licenses\\neutral\\OEM\\Professional\\license.rtf",
+        "C:\\Windows\\SysWOW64\\Licenses\\neutral\\_Default\\Professional\\license.rtf"
+      ]
+    },
+    {
+      "filename": "SyncRes.dll.mui",
+      "size_bytes": 29696,
+      "count": 32,
+      "sample_paths": [
+        "C:\\Windows\\System32\\eu-ES\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\fi-FI\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\gu-IN\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\hi-IN\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\is-IS\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\kok-IN\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\lt-LT\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\mi-NZ\\SyncRes.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.ui.xaml.dll.mui",
+      "size_bytes": 26144,
+      "count": 32,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\en-us\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\gu-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\he-IL\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\nb-NO\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\pa-IN\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\th-TH\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\en-us\\Microsoft.ui.xaml.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\gu-IN\\Microsoft.ui.xaml.dll.mui"
+      ]
+    },
+    {
+      "filename": "kitemviews5_qt.qm",
+      "size_bytes": 30,
+      "count": 32,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\af\\LC_MESSAGES\\kitemviews5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\as\\LC_MESSAGES\\kitemviews5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\bn\\LC_MESSAGES\\kitemviews5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\br\\LC_MESSAGES\\kitemviews5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\eo\\LC_MESSAGES\\kitemviews5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\fy\\LC_MESSAGES\\kitemviews5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\gl\\LC_MESSAGES\\kitemviews5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\gu\\LC_MESSAGES\\kitemviews5_qt.qm"
+      ]
+    },
+    {
+      "filename": "SecurityHealthSSO.dll.mui",
+      "size_bytes": 3072,
+      "count": 31,
+      "sample_paths": [
+        "C:\\Windows\\System32\\SecurityHealth\\10.0.29429.1000-0\\ar-SA\\SecurityHealthSSO.dll.mui",
+        "C:\\Windows\\System32\\SecurityHealth\\10.0.29429.1000-0\\ca-ES\\SecurityHealthSSO.dll.mui",
+        "C:\\Windows\\System32\\SecurityHealth\\10.0.29429.1000-0\\cs-CZ\\SecurityHealthSSO.dll.mui",
+        "C:\\Windows\\System32\\SecurityHealth\\10.0.29429.1000-0\\da-DK\\SecurityHealthSSO.dll.mui",
+        "C:\\Windows\\System32\\SecurityHealth\\10.0.29429.1000-0\\de-DE\\SecurityHealthSSO.dll.mui",
+        "C:\\Windows\\System32\\SecurityHealth\\10.0.29429.1000-0\\en-GB\\SecurityHealthSSO.dll.mui",
+        "C:\\Windows\\System32\\SecurityHealth\\10.0.29429.1000-0\\en-US\\SecurityHealthSSO.dll.mui",
+        "C:\\Windows\\System32\\SecurityHealth\\10.0.29429.1000-0\\es-ES\\SecurityHealthSSO.dll.mui"
+      ]
+    },
+    {
+      "filename": "WWAHost.exe.mui",
+      "size_bytes": 500,
+      "count": 31,
+      "sample_paths": [
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-web-app-host.resources_31bf3856ad364e35_10.0.26100.7019_ar-sa_9f9b43025208c923\\r\\WWAHost.exe.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-web-app-host.resources_31bf3856ad364e35_10.0.26100.7019_be-by_4dec459f3d573416\\r\\WWAHost.exe.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-web-app-host.resources_31bf3856ad364e35_10.0.26100.7019_bg-bg_45db248b42891a7a\\r\\WWAHost.exe.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-web-app-host.resources_31bf3856ad364e35_10.0.26100.7019_bs-..-ba_c88ab28f5748ad80\\r\\WWAHost.exe.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-web-app-host.resources_31bf3856ad364e35_10.0.26100.7019_chr..-us_01f6e1f7c992acf8\\r\\WWAHost.exe.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-web-app-host.resources_31bf3856ad364e35_10.0.26100.7019_cs-cz_f0e49b263010f6a5\\r\\WWAHost.exe.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-web-app-host.resources_31bf3856ad364e35_10.0.26100.7019_da-dk_8e1e7b4d2656f2a4\\r\\WWAHost.exe.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-web-app-host.resources_31bf3856ad364e35_10.0.26100.7019_en-gb_2cb22b641be29f3e\\r\\WWAHost.exe.mui"
+      ]
+    },
+    {
+      "filename": "license.rtf",
+      "size_bytes": 183086,
+      "count": 30,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\Eval\\EnterpriseEval\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\Eval\\EnterpriseNEval\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\Eval\\EnterpriseSEval\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\Eval\\EnterpriseSNEval\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\OEM\\Core\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\OEM\\CoreN\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\OEM\\Professional\\license.rtf",
+        "C:\\Program Files\\WindowsApps\\Microsoft.LanguageExperiencePackpt-BR_26100.167.240.0_neutral__8wekyb3d8bbwe\\Windows\\System32\\pt-BR\\Licenses\\OEM\\ProfessionalN\\license.rtf"
+      ]
+    },
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 6656,
+      "count": 30,
+      "sample_paths": [
+        "C:\\Windows\\System32\\fil-PH\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\ga-IE\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\gd-GB\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\ml-IN\\comctl32.dll.mui",
+        "C:\\Windows\\System32\\qps-plocm\\comctl32.dll.mui",
+        "C:\\Windows\\SysWOW64\\fil-PH\\comctl32.dll.mui",
+        "C:\\Windows\\SysWOW64\\ga-IE\\comctl32.dll.mui",
+        "C:\\Windows\\SysWOW64\\gd-GB\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "AppxBlockMap.xml",
+      "size_bytes": 404,
+      "count": 30,
+      "sample_paths": [
+        "C:\\Windows\\SystemApps\\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.BioEnrollment_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Windows.FileExplorer_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Windows.FilePicker_cw5n1h2txyewy\\AppxBlockMap.xml",
+        "C:\\Windows\\SystemApps\\Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy\\AppxBlockMap.xml"
+      ]
+    },
+    {
+      "filename": "AppxSignature.p7x",
+      "size_bytes": 12244,
+      "count": 29,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_19.2601.39061.0_neutral_split.language-pt_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_19.2601.39061.0_neutral_split.scale-100_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_19.2601.39061.0_neutral_split.scale-125_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_2026.109.1335.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftSolitaireCollection_4.24.12220.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.VP9VideoExtensions_1.2.12.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WebMediaExtensions_1.2.17.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_neutral_~_8wekyb3d8bbwe\\AppxSignature.p7x"
+      ]
+    },
+    {
+      "filename": "help.tree",
+      "size_bytes": 890,
+      "count": 29,
+      "sample_paths": [
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\bo\\help.tree",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\brx\\help.tree",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\dz\\help.tree",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\en-GB\\help.tree",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\en-US\\help.tree",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\en-ZA\\help.tree",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\fur\\help.tree",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\gd\\help.tree"
+      ]
+    },
+    {
+      "filename": "the-real-index",
+      "size_bytes": 72,
+      "count": 29,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\579544fd7d0441717f082c9eb123588966aa57ac\\03135c00-eaa0-49e3-adce-85889883d572\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\579544fd7d0441717f082c9eb123588966aa57ac\\e7f62d82-413d-4c10-9709-c9604ee9802a\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\7b539bde8ca0807396a791d6ee4db1189d0e5380\\d3a0f595-b123-42d5-ad52-4dbb4b363cbe\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Service Worker\\CacheStorage\\bd1c4d03a881bd4b56183475e9bd7806830c983b\\63cbccd0-fa24-4ba3-988e-9cb06aaafbd9\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\2348e52d6de9218df880d9a88ad6a5d8c2c9555c\\0b19b4d2-d2dc-415b-a85e-dbfa5293999e\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\2348e52d6de9218df880d9a88ad6a5d8c2c9555c\\a87477a5-0422-4862-a640-ba02c8a48406\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\579544fd7d0441717f082c9eb123588966aa57ac\\3a809966-76ba-48cb-8581-f69cc266dcce\\index-dir\\the-real-index",
+        "C:\\Users\\Usuário\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\579544fd7d0441717f082c9eb123588966aa57ac\\9721df0e-88ce-47cb-993f-d3da46fdce50\\index-dir\\the-real-index"
+      ]
+    },
+    {
+      "filename": "SyncRes.dll.mui",
+      "size_bytes": 31232,
+      "count": 28,
+      "sample_paths": [
+        "C:\\Windows\\System32\\as-IN\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\ca-ES\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\pl-PL\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\qps-plocm\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\quz-PE\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\ro-RO\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\sq-AL\\SyncRes.dll.mui",
+        "C:\\Windows\\SysWOW64\\as-IN\\SyncRes.dll.mui"
+      ]
+    },
+    {
+      "filename": "tipresx.dll.mui",
+      "size_bytes": 10752,
+      "count": 28,
+      "sample_paths": [
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\ar-SA\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\bg-BG\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\de-DE\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\el-GR\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\es-ES\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\es-MX\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\et-EE\\tipresx.dll.mui",
+        "C:\\Program Files\\Common Files\\microsoft shared\\ink\\it-IT\\tipresx.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 3584,
+      "count": 28,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe\\am-ET\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe\\he-IL\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe\\ja-JP\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe\\ko-KR\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe\\pa-IN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe\\zh-CN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe\\zh-TW\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x86__8wekyb3d8bbwe\\am-ET\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "help.ht_",
+      "size_bytes": 2780,
+      "count": 28,
+      "sample_paths": [
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\bo\\help.ht_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\brx\\help.ht_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\dz\\help.ht_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\en-US\\help.ht_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\fur\\help.ht_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\gd\\help.ht_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\gug\\help.ht_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\kok\\help.ht_"
+      ]
+    },
+    {
+      "filename": "mlang.dll.mui",
+      "size_bytes": 16896,
+      "count": 27,
+      "sample_paths": [
+        "C:\\Windows\\System32\\bg-BG\\mlang.dll.mui",
+        "C:\\Windows\\System32\\et-EE\\mlang.dll.mui",
+        "C:\\Windows\\System32\\fi-FI\\mlang.dll.mui",
+        "C:\\Windows\\System32\\it-IT\\mlang.dll.mui",
+        "C:\\Windows\\System32\\nl-NL\\mlang.dll.mui",
+        "C:\\Windows\\System32\\sq-AL\\mlang.dll.mui",
+        "C:\\Windows\\System32\\sr-Latn-RS\\mlang.dll.mui",
+        "C:\\Windows\\System32\\tr-TR\\mlang.dll.mui"
+      ]
+    },
+    {
+      "filename": "help.db_",
+      "size_bytes": 3213,
+      "count": 27,
+      "sample_paths": [
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\bo\\help.db_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\brx\\help.db_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\dz\\help.db_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\en-GB\\help.db_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\en-US\\help.db_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\en-ZA\\help.db_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\fur\\help.db_",
+        "C:\\Program Files\\LibreOffice\\share\\extensions\\wiki-publisher\\help\\gd\\help.db_"
+      ]
+    },
+    {
+      "filename": "kcompletion5_qt.qm",
+      "size_bytes": 30,
+      "count": 27,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\af\\LC_MESSAGES\\kcompletion5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\as\\LC_MESSAGES\\kcompletion5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\bn\\LC_MESSAGES\\kcompletion5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\br\\LC_MESSAGES\\kcompletion5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\fy\\LC_MESSAGES\\kcompletion5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\gu\\LC_MESSAGES\\kcompletion5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\ha\\LC_MESSAGES\\kcompletion5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\he\\LC_MESSAGES\\kcompletion5_qt.qm"
+      ]
+    },
+    {
+      "filename": "comdlg32.dll.mui",
+      "size_bytes": 59392,
+      "count": 26,
+      "sample_paths": [
+        "C:\\Windows\\System32\\be-BY\\comdlg32.dll.mui",
+        "C:\\Windows\\System32\\bs-Latn-BA\\comdlg32.dll.mui",
+        "C:\\Windows\\System32\\fi-FI\\comdlg32.dll.mui",
+        "C:\\Windows\\System32\\hi-IN\\comdlg32.dll.mui",
+        "C:\\Windows\\System32\\km-KH\\comdlg32.dll.mui",
+        "C:\\Windows\\System32\\kok-IN\\comdlg32.dll.mui",
+        "C:\\Windows\\System32\\mr-IN\\comdlg32.dll.mui",
+        "C:\\Windows\\System32\\ms-MY\\comdlg32.dll.mui"
+      ]
+    },
+    {
+      "filename": "Microsoft.UI.Xaml.Phone.dll.mui",
+      "size_bytes": 13856,
+      "count": 26,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\am-ET\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\he-IL\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ja-JP\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\ko-KR\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\zh-CN\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.652.1806.0_x64__8wekyb3d8bbwe\\zh-TW\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\am-ET\\Microsoft.UI.Xaml.Phone.dll.mui",
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe\\he-IL\\Microsoft.UI.Xaml.Phone.dll.mui"
+      ]
+    },
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 433,
+      "count": 26,
+      "sample_paths": [
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_as-in_6fa40cac7d39a90c\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_az-..-az_3811f0076cae23f9\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_el-gr_fe2f168c46213933\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_eu-es_fe3f7bfe462105f1\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_fa-ir_a1c41c2938595653\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_fr-ca_9982dc1f3dbb4a97\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_fr-fr_a10c91d538e2e471\\r\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft-windows-comctl32-v5.resources_31bf3856ad364e35_10.0.26100.1591_it-it_8b34881c1014c9ef\\r\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "__init__.pyi",
+      "size_bytes": 53,
+      "count": 26,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stdlib\\ctypes\\macholib\\__init__.pyi",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\passlib\\passlib\\__init__.pyi",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\protobuf\\google\\protobuf\\__init__.pyi",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\pyasn1\\pyasn1\\__init__.pyi",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\pyflakes\\pyflakes\\__init__.pyi",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\pyluach\\pyluach\\__init__.pyi",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\reportlab\\reportlab\\graphics\\__init__.pyi",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\reportlab\\reportlab\\graphics\\charts\\__init__.pyi"
+      ]
+    },
+    {
+      "filename": "localizable.json",
+      "size_bytes": 4,
+      "count": 26,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\ig-NG\\localizable.json",
+        "C:\\Users\\Usuário\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\ku-Arab\\localizable.json",
+        "C:\\Users\\Usuário\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\mn\\localizable.json",
+        "C:\\Users\\Usuário\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\nso-ZA\\localizable.json",
+        "C:\\Users\\Usuário\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\pa-Arab-PK\\localizable.json",
+        "C:\\Users\\Usuário\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\quc\\localizable.json",
+        "C:\\Users\\Usuário\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\rw\\localizable.json",
+        "C:\\Users\\Usuário\\AppData\\Local\\Microsoft\\OneDrive\\25.174.0907.0003\\tg\\localizable.json"
+      ]
+    },
+    {
+      "filename": "kwindowsystem5_qt.qm",
+      "size_bytes": 30,
+      "count": 25,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\af\\LC_MESSAGES\\kwindowsystem5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\as\\LC_MESSAGES\\kwindowsystem5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\bn\\LC_MESSAGES\\kwindowsystem5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\br\\LC_MESSAGES\\kwindowsystem5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\fy\\LC_MESSAGES\\kwindowsystem5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\gu\\LC_MESSAGES\\kwindowsystem5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\ha\\LC_MESSAGES\\kwindowsystem5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\hy\\LC_MESSAGES\\kwindowsystem5_qt.qm"
+      ]
+    },
+    {
+      "filename": "bootmgr.efi.mui",
+      "size_bytes": 90000,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Windows\\Boot\\EFI\\da-DK\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\el-GR\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\fi-FI\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\fr-FR\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\it-IT\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\ko-KR\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\nl-NL\\bootmgr.efi.mui",
+        "C:\\Windows\\Boot\\EFI\\ru-RU\\bootmgr.efi.mui"
+      ]
+    },
+    {
+      "filename": "bootmgr_EX.efi.mui",
+      "size_bytes": 90000,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Windows\\Boot\\EFI_EX\\da-DK\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\el-GR\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\fi-FI\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\fr-FR\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\it-IT\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\ko-KR\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\nl-NL\\bootmgr_EX.efi.mui",
+        "C:\\Windows\\Boot\\EFI_EX\\ru-RU\\bootmgr_EX.efi.mui"
+      ]
+    },
+    {
+      "filename": "SyncRes.dll.mui",
+      "size_bytes": 32256,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Windows\\System32\\cy-GB\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\es-ES\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\es-MX\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\kn-IN\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\ne-NP\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\vi-VN\\SyncRes.dll.mui",
+        "C:\\Windows\\SysWOW64\\cy-GB\\SyncRes.dll.mui",
+        "C:\\Windows\\SysWOW64\\es-ES\\SyncRes.dll.mui"
+      ]
+    },
+    {
+      "filename": "SyncRes.dll.mui",
+      "size_bytes": 31744,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Windows\\System32\\bg-BG\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\ca-ES-valencia\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\gl-ES\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\mt-MT\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\nl-NL\\SyncRes.dll.mui",
+        "C:\\Windows\\System32\\pt-PT\\SyncRes.dll.mui",
+        "C:\\Windows\\SysWOW64\\bg-BG\\SyncRes.dll.mui",
+        "C:\\Windows\\SysWOW64\\ca-ES-valencia\\SyncRes.dll.mui"
+      ]
+    },
+    {
+      "filename": "WWAHost.exe.mui",
+      "size_bytes": 21504,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Windows\\System32\\cs-CZ\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\fi-FI\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\pt-BR\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\qps-plocm\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\ro-RO\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\ru-RU\\WWAHost.exe.mui",
+        "C:\\Windows\\System32\\sl-SI\\WWAHost.exe.mui",
+        "C:\\Windows\\SysWOW64\\pt-BR\\WWAHost.exe.mui"
+      ]
+    },
+    {
+      "filename": "comctl32.dll.mui",
+      "size_bytes": 11776,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_ar-sa_bf7b517e4ad17110\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_da-dk_adfe89c91f1f9a91\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_en-gb_4c9239e014ab472b\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_en-us_541af4fe0fd3faf0\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_fa-ir_f7555235024374d9\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_hi-in_3b753e2ee8ca7cb7\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_lo-la_c1e94d1cb6f4ab49\\comctl32.dll.mui",
+        "C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.26100.1591_mr-in_6aab430fa5e90a4d\\comctl32.dll.mui"
+      ]
+    },
+    {
+      "filename": "desktop.ini",
+      "size_bytes": 174,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Program Files\\desktop.ini",
+        "C:\\Program Files (x86)\\desktop.ini",
+        "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\desktop.ini",
+        "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\desktop.ini",
+        "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\desktop.ini",
+        "C:\\Users\\desktop.ini",
+        "C:\\Users\\Public\\desktop.ini",
+        "C:\\Users\\Public\\Desktop\\desktop.ini"
+      ]
+    },
+    {
+      "filename": "METADATA.toml",
+      "size_bytes": 88,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\aws-xray-sdk\\METADATA.toml",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\greenlet\\METADATA.toml",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\inifile\\METADATA.toml",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\lzstring\\METADATA.toml",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\Markdown\\METADATA.toml",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\openpyxl\\METADATA.toml",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\portpicker\\METADATA.toml",
+        "C:\\Users\\Usuário\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.2\\dist\\typeshed-fallback\\stubs\\pyinstaller\\METADATA.toml"
+      ]
+    },
+    {
+      "filename": "stringutiltest2.strings.json",
+      "size_bytes": 43,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2025.916.400_x64__8wekyb3d8bbwe\\locales\\bs-Latn-BA\\stringutiltest2.strings.json",
+        "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2025.916.400_x64__8wekyb3d8bbwe\\locales\\cs\\stringutiltest2.strings.json",
+        "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2025.916.400_x64__8wekyb3d8bbwe\\locales\\da\\stringutiltest2.strings.json",
+        "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2025.916.400_x64__8wekyb3d8bbwe\\locales\\de\\stringutiltest2.strings.json",
+        "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2025.916.400_x64__8wekyb3d8bbwe\\locales\\en-GB\\stringutiltest2.strings.json",
+        "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2025.916.400_x64__8wekyb3d8bbwe\\locales\\et\\stringutiltest2.strings.json",
+        "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2025.916.400_x64__8wekyb3d8bbwe\\locales\\fil\\stringutiltest2.strings.json",
+        "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2025.916.400_x64__8wekyb3d8bbwe\\locales\\fr\\stringutiltest2.strings.json"
+      ]
+    },
+    {
+      "filename": "kcoreaddons5_qt.qm",
+      "size_bytes": 30,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\af\\LC_MESSAGES\\kcoreaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\as\\LC_MESSAGES\\kcoreaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\bn\\LC_MESSAGES\\kcoreaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\br\\LC_MESSAGES\\kcoreaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\fy\\LC_MESSAGES\\kcoreaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\gu\\LC_MESSAGES\\kcoreaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\ha\\LC_MESSAGES\\kcoreaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\he\\LC_MESSAGES\\kcoreaddons5_qt.qm"
+      ]
+    },
+    {
+      "filename": "kwidgetsaddons5_qt.qm",
+      "size_bytes": 30,
+      "count": 24,
+      "sample_paths": [
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\af\\LC_MESSAGES\\kwidgetsaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\as\\LC_MESSAGES\\kwidgetsaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\bn\\LC_MESSAGES\\kwidgetsaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\br\\LC_MESSAGES\\kwidgetsaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\fy\\LC_MESSAGES\\kwidgetsaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\gu\\LC_MESSAGES\\kwidgetsaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\ha\\LC_MESSAGES\\kwidgetsaddons5_qt.qm",
+        "C:\\Users\\Usuário\\Downloads\\ESL_Downloads\\├── 05_Portables\\krita-x64-5.2.13\\krita-x64-5.2.13\\bin\\locale\\hy\\LC_MESSAGES\\kwidgetsaddons5_qt.qm"
+      ]
+    }
+  ],
+  "stats": {
+    "OK": 1063643,
+    "NEW": 1060522,
+    "MOVED": 278,
+    "UNCHANGED": 2843,
+    "ERR": 0
+  },
+  "missing_marked": 0,
+  "elapsed_seconds": 1402.67
+}

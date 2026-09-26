@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/report",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NeverLost",
+      "hasCanvas": false,
+      "bodyTextLen": 33,
+      "bodyTextHash": "84bbd76a9c2a8f6288f909218d77e6e5cffd0a99198377ebcc66e80c77d0fb2c",
+      "bodyTextPrefix": "NeverLostObserver SOMENTE LEITURA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/report-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NeverLost",
+      "hasCanvas": false,
+      "bodyTextLen": 25,
+      "bodyTextHash": "6a36682c8839dddc0d5ab8c5e1c8f8c6e7c0ca61a54d098d6eb4755149001b4a",
+      "bodyTextPrefix": "NeverLost SOMENTE LEITURA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/report-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/report-preview.json"
+}

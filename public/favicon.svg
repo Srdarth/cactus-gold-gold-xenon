@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="NeverLost">
+  <rect width="32" height="32" rx="7" fill="#08090b"/>
+  <rect x="0.75" y="0.75" width="30.5" height="30.5" rx="6.25" fill="none" stroke="#7ec8b3" stroke-opacity="0.35" stroke-width="1"/>
+  <path fill="#7ec8b3" fill-rule="evenodd" d="M16 8c6.2 0 11.2 4.4 13 8-1.8 3.6-6.8 8-13 8S4.8 19.6 3 16c1.8-3.6 6.8-8 13-8zm0 4.25a3.75 3.75 0 100 7.5 3.75 3.75 0 000-7.5z"/>
+</svg>

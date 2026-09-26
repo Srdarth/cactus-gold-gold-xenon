@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NeverLost",
+      "hasCanvas": false,
+      "bodyTextLen": 1343,
+      "bodyTextHash": "e838b7d41b5d31bf82253c803e73b86080e530270a91a409acff4e940c81b7bb",
+      "bodyTextPrefix": "NeverLostObserver Relatório SOMENTE LEITURA SCANNER FORENSE DE S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NeverLost",
+      "hasCanvas": false,
+      "bodyTextLen": 1335,
+      "bodyTextHash": "df7f0198e7b6d964753308e4fce399aafbb302dc1165c9914516dd82e5eca3b2",
+      "bodyTextPrefix": "NeverLost Relatório SOMENTE LEITURA SCANNER FORENSE DE SOBERANIA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
